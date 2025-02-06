@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\OWNER\Documents\POO\POO-Cpp-main\POO\Source.cpp(56,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\OWNER\Documents\POO\POO-Cpp-main\POO\Source.cpp(112,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  POO.vcxproj -> C:\Users\OWNER\Documents\POO\POO-Cpp-main\POO\x64\Debug\POO.exe

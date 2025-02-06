@@ -1,0 +1,13 @@
+Realizarea unei aplicatii intitulata "Bookshop" folosind principiile POO.
+Aplicatia e conceputa astfel:la momentul pornirii iei iti creezi un cont de utilizator,
+iar in cadrul contului ai posibilitatea de a imprumuta/cumpara carti dintr-o librarie.
+In caz de ai uitat parola contului exista si posibilitatea resetarii ei.
+Ai posibilitatea si de a trimite sesizari.
+In fisierul carti.txt se introduc cartile din stocul librariei.
+In fisierul date.txt se vor salva ulterior datele fiecarui client al librariei.
+In fisierul log.txt se vor afisa toate optiunile gresite pe care le vor introduce utilizatorii.
+Dupa ce un client imprumuta sau cumpara o carte se va crea un fisier cu numele si prenumlele lui
+in care se vor salva cartile respective.
+Iar in fisierul sesizari.txt vor aparea sesizarile facute de clienti.
+
+

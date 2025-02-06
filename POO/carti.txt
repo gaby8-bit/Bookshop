@@ -1,0 +1,16 @@
+Fictiune
+Mandrie_si_Prejudecata Humanitas 50 10 400 1
+Jane_Austen
+Non-Fictiune
+Sapiens Polirom 80 5 2011 1
+Yuval_Noah_Harari
+Fictiune
+1984 Nemira 45 8 328 1
+George_Orwell
+Non-Fictiune
+Gandire_Rapida_si_Lenta Publica 100 7 2015 1
+Daniel_Kahneman
+Fictiune Mandrie_si_Prejudecata Humanitas 50 10 400 1 Jane_Austen 
+Non-Fictiune Sapiens Polirom 80 5 2011 1 Yuval_Noah_Harari 
+Fictiune 1984 Nemira 45 7 328 1 George_Orwell 
+Non-Fictiune Gandire_Rapida_si_Lenta Publica 100 7 2015 1 Daniel_Kahneman 
